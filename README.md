@@ -6,14 +6,14 @@
 - Learning CEH, Splunk, Wazuh and Linux 
 
 ## 🛠️ Skills
--🐧 Linux
--🛡️ Splunk
--📊 Wazuh
--🌐 Networking
--🔍 Wireshark
--🌐 Burp Suite
--💉 SQL Injection (Web Security Learning)
--📝 Log Analysis
+- 🐧 Linux
+- 🛡️ Splunk
+- 📊 Wazuh
+- 🌐 Networking
+- 🔍 Wireshark
+- 🌐 Burp Suite
+- 💉 SQL Injection (Web Security Learning)
+- 📝 Log Analysis
 
 ## 📂 Projects
 - Wazuh Installation
