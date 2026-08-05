@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Aleena Rose Roy 👋
 
-<!--
-**aleenarose26/aleenarose26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 About Me
+- Cybersecurity Student
+- Aspiring SOC Analyst
+- Learning CEH, Splunk, Wazuh and Linux 
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+🐧 Linux
+🛡️ Splunk
+📊 Wazuh
+🌐 Networking
+🔍 Wireshark
+🌐 Burp Suite
+💉 SQL Injection (Web Security Learning)
+📝 Log Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Wazuh Installation
+- Splunk Log Monitoring
+- Python Keylogger (Educational Lab Project)
+
+## 📜 Certifications
+- Red Team Hacker Academy
+- CEH (In Progress)
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/aleena-rose-roy-
