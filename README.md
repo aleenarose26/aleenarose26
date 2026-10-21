@@ -27,8 +27,8 @@ Avodha | 24 March 2025 – 24 June 2025
 
 - 🎓 Managed student course enrollment through a web-based platform.
 - 🔑 Assisted users with password resets and access issues.
-- 🛠️ Troubleshot and resolved user complaints.
-- 💻 Resolved user issues and provided support through Google Meet sessions.
+- 🛠️ Troubleshot and resolved user complaints and technical issues.
+- 💻 Provided technical support and assisted users through Google Meet.
 
 ## 📂 Projects
 - Wazuh Installation
