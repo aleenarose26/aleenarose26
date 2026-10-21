@@ -21,6 +21,15 @@
 - 💉 SQL Injection (Web Security Learning)
 - 📝 Log Analysis
 
+## 💼 Internship Experience
+Technical Support Executive Intern
+Avodha | 24 March 2025 – 24 June 2025
+
+- 🎓 Managed student course enrollment through a web-based platform.
+- 🔑 Assisted users with password resets and access issues.
+- 🛠️ Troubleshot and resolved user complaints.
+- 💻 Provided technical support to users through online meetings.
+
 ## 📂 Projects
 - Wazuh Installation
 - Splunk Log Monitoring
