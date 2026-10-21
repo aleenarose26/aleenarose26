@@ -1,9 +1,13 @@
 # Hi, I'm Aleena Rose Roy 👋
 
 ## 🔐 About Me
-- Cybersecurity Student
 - Aspiring SOC Analyst
 - Learning CEH, Splunk, Wazuh and Linux 
+
+## 🎓 Education
+- Advanced Diploma in Cyber Defense - Redteam Hacker Academy
+- Ethical Hacking - Avodha infopark
+- Bachelor of Arts (B.A) Sociology - Carmel College, Calicut University
 
 ## 🛠️ Skills
 - 🐧 Linux
@@ -21,8 +25,9 @@
 - Python Keylogger (Educational Lab Project)
 
 ## 📜 Certifications
-- Red Team Hacker Academy
-- CEH (In Progress)
+- Advanced Diploma in Cyber Defense (ADCDv3) 
+- Ethical Hacking NSDC
+- Ethical Hacking Skill Training
 
 ## 📫 Connect with Me
 - LinkedIn: www.linkedin.com/in/aleena-rose-roy-
