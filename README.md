@@ -1,7 +1,7 @@
 # Hi, I'm Aleena Rose Roy 👋
 
 ## 🔐 About Me
-- 🔐 Aspiring Cybersecurity Analyst
+- 🛡️ Aspiring Cybersecurity Analyst
 - 🐧 Learning Linux and Networking
 - 🖥️ Interested in Active Directory and System Security
 - 🚀 Passionate about learning and growing in Cybersecurity
