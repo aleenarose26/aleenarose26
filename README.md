@@ -1,8 +1,10 @@
 # Hi, I'm Aleena Rose Roy 👋
 
 ## 🔐 About Me
-- Aspiring SOC Analyst
-- Learning CEH, Splunk, Wazuh and Linux 
+- 🔐 Aspiring Cybersecurity Analyst
+- 🐧 Learning Linux and Networking
+- 🖥️ Interested in Active Directory and System Security
+- 🚀 Passionate about learning and growing in Cybersecurity
 
 ## 🎓 Education
 - Advanced Diploma in Cyber Defense - Redteam Hacker Academy
@@ -12,7 +14,7 @@
 ## 🛠️ Skills
 - 🐧 Linux
 - 🛡️ Splunk
-- 📊 Wazuh
+- 🖥️ Active Directory
 - 🌐 Networking
 - 🔍 Wireshark
 - 🌐 Burp Suite
