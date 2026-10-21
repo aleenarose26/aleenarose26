@@ -7,9 +7,9 @@
 - 🚀 Passionate about learning and growing in Cybersecurity
 
 ## 🎓 Education
-- Advanced Diploma in Cyber Defense - Redteam Hacker Academy
-- Ethical Hacking - Avodha infopark
-- Bachelor of Arts (B.A) Sociology - Carmel College, Calicut University
+- Advanced Diploma in Cyber Defense - Redteam Hacker Academy | 2025-2026
+- Ethical Hacking - Avodha infopark | 2024-2025
+- Bachelor of Arts (B.A) Sociology - Carmel College, Calicut University | 2021-2024
 
 ## 🛠️ Skills
 - 🐧 Linux
